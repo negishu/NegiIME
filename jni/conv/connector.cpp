@@ -1,8 +1,6 @@
 #include "Connector.h"
 
 #include "./connections.1000.h"
-//#include "./connections.h"
-//#include "./t9connection.h"
 
 Connector::Connector() 
 {
